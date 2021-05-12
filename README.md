@@ -17,7 +17,7 @@ resultado da última operação.
 - [ ] O usuário pode ver um painel de entrada contendo botões para os dígitos 0-9, 
 operações - '+', '-', '/' e '=', um botão 'C' (para limpar) e um 'AC'
 botão (para limpar tudo).
--  [] O usuário pode inserir números como sequências de até 8 dígitos clicando em
+-  [ ] O usuário pode inserir números como sequências de até 8 dígitos clicando em
 dígitos no teclado de entrada. A entrada de qualquer dígito superior a 8 será ignorada.
 - [ ] O usuário pode clicar em um botão de operação para exibir o resultado dessa
 operação em:
