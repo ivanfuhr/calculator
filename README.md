@@ -35,5 +35,5 @@ Projeto simples, mas creio que seja de grande relevancia para programadores inic
 Projeto divertido e simples, creio que seja importante todos desenvolvedores iniciantes praticarem com este projeto!
 
 [Resultado final](https://calculator.ivanfuhr.com/)
-[Link da publicação do LinkedIn]()
+[Link da publicação do LinkedIn](https://www.linkedin.com/posts/ivan-lu%C3%ADs-f%C3%BChr-6270671bb_ivanfuhrcalculator-activity-6800211881513562112-bEAH)
 
