@@ -56,7 +56,7 @@ export default function Home() {
           </div>
           <div className={styles.row}>
             <button className={styles.zero} onClick={() => setCalc(calc + '0')}>0</button>
-            <button onClick={() => setCalc(calc + ',')}>,</button>
+            <button onClick={() => setCalc(calc + '.')}>,</button>
             <button onClick={() => setCalc(calc + '+')}>+</button>
           </div>
           <div className={styles.row}>
