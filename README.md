@@ -2,14 +2,14 @@
 - Calculadora simples demonstrando funções básicas de javascript (App-Ideas)
 
  # Planejamento
- - [ ] Iniciar projeto com Next.js (`npx create-next-app`)
- - [ ] Analisar os requisitos 
- - [ ] Desenvolver uma solução para esse problema
- - [ ] Testar o projeto
- - [ ] Estilizar com CSS
- - [ ] Fazer um commit para o github
- - [ ] Criar um relátorio de projeto
- - [ ] Fazer um post do LinkedIn
+ - [X] Iniciar projeto com Next.js (`npx create-next-app`)
+ - [X] Analisar os requisitos 
+ - [X] Desenvolver uma solução para esse problema
+ - [X] Testar o projeto
+ - [X] Estilizar com CSS
+ - [X] Fazer um commit para o github
+ - [X] Criar um relátorio de projeto
+ - [X] Fazer um post do LinkedIn
 
 # Requisitos
 - [X] O usuário pode ver uma tela mostrando o número atual inserido ou o
@@ -34,6 +34,6 @@ Projeto simples, mas creio que seja de grande relevancia para programadores inic
 # Conclusão
 Projeto divertido e simples, creio que seja importante todos desenvolvedores iniciantes praticarem com este projeto!
 
-[Resultado final]()
+[Resultado final](https://calculator.ivanfuhr.com/)
 [Link da publicação do LinkedIn]()
 
